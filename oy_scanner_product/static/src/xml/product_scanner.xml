@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<templates>
+    <div t-name="oy_scanner_product.ProductScanner">
+        <div>
+            <video id="barcode_scanner" class="img-fluid" style="object-fit:cover;width:100%"></video>
+            <div id="sourceSelectPanel">
+                <select id="sourceSelect" style="width:100%"></select>
+            </div>
+        </div>
+    </div>
+</templates>
